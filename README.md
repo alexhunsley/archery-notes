@@ -62,7 +62,7 @@ Focus on target but move tip of arrow (at draw) over your aim point in foregroun
 
 Remain body and head/neck straight up. Don't do an "ussain bolt". 
 
-Practice 'draw' action in front of mirror and check what your torse/head are doing, get used to feeling of doing it correctly.
+Practice 'draw' action (with or without bow) in front of mirror and check what your torse/head are doing, get used to feeling of doing it correctly.
 
 Personally, it seems that to remain straight and not lean back a bit, I have to feel like I'm leaning forwards ever so slightly while drawing.
 
