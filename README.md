@@ -1,3 +1,7 @@
+# Disclaimer
+
+These are strictly personal notes on archery. Use any info here at your own risk. Don't take my word on anything.
+
 # Remember
 
 ## Clothing
@@ -12,11 +16,11 @@ As you draw, it changes from a grip to more of a thing bow pushes against, finge
 
 Want minimum tension in left hand, solid bone line down arm through palm onto bow. Pros actually have the bow fall forward a bit on release, as they're not holding it, it's just braced against their hand.
 
-## Signals penicuik
+## Signals p-cuik
 
 One whistle: approach line for shooting
 
-Three: approach targets for retrieving arrows
+Three whistle: approach targets for retrieving arrows
 
 Shout of "FAST": shout the same. Relax a bow if drawn and point down. Remain stationary. Wait for instructions.
 
@@ -26,13 +30,13 @@ You're just 'slipping off' the string, hand moving back a bit.
 
 ## Removing arrows from target
 
-Approach at side, not straight on. 
+Approach target down the "side channel", not straight on (you like your eyes, right?).
 
-Look back before pulling arrow out. 
+Look back before pulling arrow out (other people like their eyes, right?).
 
-For carbon arrows, you must use a gripper (not bare skin) as they can fragment into splinters.
+For carbon arrows, you must use a gripper to pull out arrows (not bare skin) as they can fragment into splinters (you like your hands, rights?)
 
-At penicuik we use aluminium arrows.
+At p-cuik we use aluminium arrows.
 
 ## Tab
 
