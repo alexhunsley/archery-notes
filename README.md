@@ -54,7 +54,7 @@ Nock: index finger above nock, next two under, leave a little gap so fingers don
 
 R hand index finger at corner of mouth.
 
-Nock: three fingers under knock.
+Nock: three fingers under nock.
 
 Focus on target but move tip of arrow (at draw) over your aim point in foreground.
 
