@@ -118,3 +118,7 @@ A few BASIC simple principles (by no means complete):
 * need clear signage if an area is accessible to someone entering (e.g. a garden gate)
 * consider a netting tunnel
 * there's an ultra short form of practice with a japanese (?) name, look it up again
+
+# Resources
+
+* [Nice slow-mo video showing spine flex](https://www.youtube.com/watch?v=cP8XVW4H90g) (c.f. archers paradox)
