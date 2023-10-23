@@ -111,10 +111,10 @@ Bow and arrows must be concealed in public.
 A few BASIC simple principles (by no means complete):
 
 * never shoot towards public areas
-* need a good backstop
+* need a good backstop (solid, big enough)
 * the shorter the distance to the target, the safer
-* rubber tips over non-wide points mean can't penetrate human skin (but need paddy target or arrows get damaged!)
-* always know what is behind backstop
+* rubber tips over non-wide points mean can't penetrate human skin (but need padded spongy target or the arrows will get damaged/unsafe!)
+* always know what is behind the backstop
 * need clear signage if an area is accessible to someone entering (e.g. a garden gate)
 * consider a netting tunnel
-* there's an ultra short form with japanese (?) name, look it up again
+* there's an ultra short form of practice with a japanese (?) name, look it up again
